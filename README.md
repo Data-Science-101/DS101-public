@@ -1,1 +1,15 @@
-# DataScience101
+# DataScience101 Syllabus
+- Intro to Python Pandas and Numpy
+- Intro to Machine Learning
+- Supervised Learning
+  - Classification vs. Regression
+  - Linear Regression
+  - Logistic Regression
+  - K Nearest Neighbors
+  - Decision Trees
+  - Random Forest
+  - Boosting
+  - Neural Network
+- Unsupervised Learning
+  - K-means Clustering
+  - Principal Component Analysis
